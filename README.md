@@ -74,12 +74,7 @@ I'm a backend-focused engineer who enjoys taking systems from idea to production
 
 **GenAI Toolkit**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-2E8B57?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embeddings-E67E22?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vector%20Database-C0392B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/Embeddings-E67E22?style=flat-square"/> <img src="https://img.shields.io/badge/Vector%20Database-C0392B?style=flat-square"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square"/>
 
 <br/>
 
@@ -89,7 +84,7 @@ I'm a backend-focused engineer who enjoys taking systems from idea to production
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 [AceAI](https://aceai-nm53.onrender.com)
+### 🤖 AceAI &nbsp;[![Live](https://img.shields.io/badge/Live-success?style=flat-square&logo=vercel&logoColor=white)](https://aceai-nm53.onrender.com)
 AI-powered mock interview platform with adaptive questioning and real-time evaluation.
 
 `Node.js` `Express` `MongoDB` `React` `LangChain` `Deepgram` `Firebase`
@@ -102,7 +97,7 @@ AI-powered mock interview platform with adaptive questioning and real-time evalu
 </td>
 <td width="33%" valign="top">
 
-### 🛒 NeoCart
+### 🛒 NeoCart &nbsp;[![Live](https://img.shields.io/badge/Live-success?style=flat-square&logo=vercel&logoColor=white)](https://neocart-frontend.onrender.com/)
 Production-ready MERN e-commerce platform with secure auth and payments.
 
 `Node.js` `Express` `MongoDB` `Redis`
@@ -115,7 +110,7 @@ Production-ready MERN e-commerce platform with secure auth and payments.
 </td>
 <td width="33%" valign="top">
 
-### 💻 CodeMeet
+### 💻 CodeMeet &nbsp;[![Live](https://img.shields.io/badge/Live-success?style=flat-square&logo=vercel&logoColor=white)](https://codemeet-1jug.onrender.com/)
 Real-time collaborative coding platform with video calling.
 
 `React` `Node.js` `Socket.IO` `WebRTC`
