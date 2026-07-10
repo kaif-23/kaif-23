@@ -4,6 +4,8 @@
 
 ### Backend Engineer • GenAI Builder • Problem Solver
 
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="380"/>
+
 <a href="https://linkedin.com/in/kaif-ali-1699bb256">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -27,17 +29,22 @@
 
 ```yaml
 name: Kaif Ali
+role: Backend Engineer | GenAI Builder | Problem Solver
 education: B.Tech Computer Engineering, Jamia Millia Islamia (2022–2026)
 focus: [Backend Engineering, GenAI Applications, Production-ready APIs, Distributed Systems]
 looking_for: [Backend Engineer, Software Engineer, Full Stack Engineer]
 fun_fact: Solved 600+ DSA problems and love building real-world products
 ```
 
-- 🔭 Currently building **AceAI** — an AI-powered mock interview platform
-- 🌱 Learning **Advanced RAG, Agentic AI, System Design & Distributed Systems**
-- 👯 Open to collaborating on **backend & GenAI projects**
-- 💬 Ask me about **Node.js, Express, MongoDB, Redis, REST APIs, System Design**
-- 🟢 **Open to work**
+I'm a backend-focused engineer who enjoys taking systems from idea to production — designing the data model, wiring up auth and payments correctly, and making sure things don't break under load. Most of my recent work sits at the intersection of traditional backend engineering (Node.js, Express, MongoDB, Redis) and applied GenAI (LangChain, structured LLM outputs, RAG).
+
+- 🔭 **Currently building:** [AceAI](https://aceai-nm53.onrender.com) — an AI-powered mock interview platform with adaptive questioning and real-time evaluation
+- 🎯 **Core strengths:** REST API design, authentication & authorization, payment webhook integrity, caching strategies, database transactions
+- 🌱 **Currently learning:** Advanced RAG, Agentic AI, System Design & Distributed Systems
+- 👯 **Open to collaborating on:** backend & GenAI projects
+- 💬 **Ask me about:** Node.js, Express, MongoDB, Redis, REST APIs, System Design
+- 🧩 **Beyond code:** 600+ DSA problems solved, 97th percentile JEE Main (1M+ candidates)
+- 🟢 **Open to work** — actively interviewing for Backend / Full-Stack SDE roles
 
 <br/>
 
@@ -115,31 +122,6 @@ Real-time collaborative coding platform with video calling.
 </td>
 </tr>
 </table>
-
-<br/>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaif-23&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif-23&theme=tokyonight&hide_border=true"/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif-23&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kaif-23&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&row=1"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaif-23&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 <br/>
 
