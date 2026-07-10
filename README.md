@@ -1,266 +1,163 @@
-<h1 align="center">Hi 👋, I'm Kaif Ali</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;GenAI+Application+Developer;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis;Building+Production-Grade+Applications;Always+Learning+Something+New+🚀" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;GenAI+Application+Developer;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis;Building+Production-Grade+Applications" alt="Typing SVG" />
 
-<h3 align="center">
-Backend Engineer • GenAI Builder • Problem Solver
-</h3>
+### Backend Engineer • GenAI Builder • Problem Solver
 
-<p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-
-<a href="<YOUR_LINKEDIN_URL>">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/kaif-ali-1699bb256">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:kaifali.6263@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<a href="https://leetcode.com/kaif_23">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 <a href="https://github.com/kaif-23">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=kaif-23&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=kaif-23&style=for-the-badge&color=blue" alt="Profile views"/>
 
-</p>
+</div>
 
----
+<br/>
 
-# 🚀 About Me
+## About Me
 
 ```yaml
-Name: Kaif Ali
-
-Education:
-  B.Tech Computer Engineering
-  Jamia Millia Islamia (2022-2026)
-
-Current Focus:
-  - Backend Engineering
-  - Generative AI Applications
-  - Production-ready APIs
-  - Distributed Systems
-
-Looking For:
-  Backend Engineer
-  Software Engineer
-  Full Stack Engineer
-
-Interests:
-  - System Design
-  - GenAI
-  - Cloud
-  - Open Source
+name: Kaif Ali
+education: B.Tech Computer Engineering, Jamia Millia Islamia (2022–2026)
+focus: [Backend Engineering, GenAI Applications, Production-ready APIs, Distributed Systems]
+looking_for: [Backend Engineer, Software Engineer, Full Stack Engineer]
+fun_fact: Solved 600+ DSA problems and love building real-world products
 ```
 
----
-
-# 🔭 Current Status
-
-- 🔭 Currently building **AceAI – AI Powered Mock Interview Platform**
+- 🔭 Currently building **AceAI** — an AI-powered mock interview platform
 - 🌱 Learning **Advanced RAG, Agentic AI, System Design & Distributed Systems**
-- 👯 Looking to collaborate on **Backend & GenAI Projects**
-- 🤝 Looking for help with **Large Scale AI Systems**
-- 💬 Ask me about **Node.js, Express.js, MongoDB, Redis, LangChain, REST APIs**
-- ⚡ Fun Fact: **Solved 600+ DSA Problems and love building real-world products.**
+- 👯 Open to collaborating on **backend & GenAI projects**
+- 💬 Ask me about **Node.js, Express, MongoDB, Redis, REST APIs, System Design**
+- 🟢 **Open to work**
 
----
+<br/>
 
-# 🛠 Tech Stack
+## Tech Stack
 
-<p align="center">
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,nodejs,express,react,mongodb,mysql,redis,firebase,git,github,vscode,docker&perline=8"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python"/>
 
-</p>
+**Backend & Data**
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis"/>
 
-# 🤖 GenAI Stack
+**Frontend**
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Database-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge"/>
+**Tools & Platforms**
 
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,docker"/>
 
----
+**GenAI Toolkit**
 
-# 🌟 Featured Projects
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2E8B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-E67E22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20Database-C0392B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square"/>
 
-## 🤖 AceAI — AI Powered Mock Interview Platform
+<br/>
 
-**Tech Stack**
+## Featured Projects
 
-`Node.js` • `Express` • `MongoDB` • `React` • `LangChain` • `Deepgram` • `Firebase`
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### Features
+### 🤖 [AceAI](https://aceai-nm53.onrender.com)
+AI-powered mock interview platform with adaptive questioning and real-time evaluation.
 
-- 🎯 Adaptive AI Interview Engine
-- 🧠 LangChain LCEL Chains
-- 🎤 Real-time Speech Transcription
-- 📊 Automated Answer Evaluation
-- ✅ Structured LLM Outputs using Zod
-- 🔐 Firebase Authentication
-- 💳 Razorpay Subscription System
+`Node.js` `Express` `MongoDB` `React` `LangChain` `Deepgram` `Firebase`
 
----
+- Adaptive interview engine via LangChain LCEL chains
+- Real-time speech transcription (Deepgram)
+- Structured LLM outputs validated with Zod
+- Firebase auth + Razorpay subscriptions
 
-## 🛒 NeoCart — Production Ready MERN E-Commerce
+</td>
+<td width="33%" valign="top">
 
-**Tech Stack**
+### 🛒 NeoCart
+Production-ready MERN e-commerce platform with secure auth and payments.
 
-`Node.js` • `Express` • `MongoDB` • `Redis`
+`Node.js` `Express` `MongoDB` `Redis`
 
-### Features
+- JWT auth with Redis-backed sessions
+- Role-based access control & rate limiting
+- Razorpay payments + webhook verification
+- Atomic inventory updates
 
-- JWT Authentication
-- Redis Session Management
-- Role Based Access Control
-- API Rate Limiting
-- Razorpay Payments
-- Cloudinary Integration
-- Atomic Inventory Updates
+</td>
+<td width="33%" valign="top">
 
----
+### 💻 CodeMeet
+Real-time collaborative coding platform with video calling.
 
-## 💻 CodeMeet — Real-Time Collaborative Coding
+`React` `Node.js` `Socket.IO` `WebRTC`
 
-**Tech Stack**
+- Live collaborative code editor
+- Peer-to-peer video calling
+- Screen sharing & presence tracking
+- Multi-language code execution
 
-`React` • `Node.js` • `Socket.IO` • `WebRTC`
+</td>
+</tr>
+</table>
 
-### Features
+<br/>
 
-- Live Collaborative Editor
-- Video Calling
-- Screen Sharing
-- Presence Tracking
-- Multi-language Code Execution
+## GitHub Analytics
 
----
+<div align="center">
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaif-23&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif-23&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaif-23&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif-23&theme=tokyonight&hide_border=true"/>
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif-23&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
----
+<div align="center">
 
-# 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=kaif-23&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&row=1"/>
 
-<p align="center">
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kaif-23&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaif-23&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
----
+<br/>
 
-# 🐍 Contribution Snake
+## Experience
 
-> Enable GitHub Actions to generate this automatically.
+**Software Developer Intern — SaralPixel AI Labs** &nbsp;·&nbsp; *Jul 2025 – Aug 2025*
+- Built a healthcare appointment booking platform (React, Node.js, Express, MongoDB)
+- Implemented Firebase Authentication with server-side token verification
+- Developed secure REST APIs and collaborated across the stack via Git workflows
 
-<p align="center">
+## Achievements
 
-<img src="https://raw.githubusercontent.com/kaif-23/kaif-23/output/github-contribution-grid-snake.svg"/>
+🥇 Solved 600+ DSA problems &nbsp;·&nbsp; 📈 97th percentile, JEE Main (1M+ candidates) &nbsp;·&nbsp; 🚀 Shipped multiple production-ready backend & GenAI applications
 
-</p>
+<br/>
 
----
+<div align="center">
 
-# 💼 Experience
+⭐ **Thanks for visiting!** If you like my work, consider starring my repos.
 
-### Software Developer Intern — SaralPixel AI Labs
-
-📅 **July 2025 – August 2025**
-
-- Built healthcare appointment booking platform
-- Implemented Firebase Authentication
-- Developed secure REST APIs
-- Worked across frontend & backend
-- Collaborated using Git workflows
-
----
-
-# 🏆 Achievements
-
-🥇 Solved **600+ DSA Problems**
-
-📈 **97 Percentile** in JEE Main among 1M+ candidates
-
-🚀 Built multiple production-ready Backend & GenAI applications
-
----
-
-# 💬 Ask Me About
-
-- Backend Development
-- REST APIs
-- Authentication Systems
-- JWT & Redis
-- MongoDB
-- LangChain
-- Prompt Engineering
-- RAG
-- Socket.IO
-- WebRTC
-- System Design
-
----
-
-# ✨ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-Let's build something amazing together 🚀
-
-</h3>
+</div>
