@@ -4,7 +4,11 @@
 
 ### Backend Engineer • GenAI Builder • Problem Solver
 
+<div align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="380"/>
+</div>
+
+<div align="center">
 
 <a href="https://linkedin.com/in/kaif-ali-1699bb256">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,6 +24,8 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=kaif-23&style=for-the-badge&color=blue" alt="Profile views"/>
+
+</div>
 
 </div>
 
