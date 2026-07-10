@@ -1,82 +1,266 @@
-<h1 align="center">Kaif Ali</h1>
-<h3 align="center">Backend / Software Engineer — Node.js · Express · MongoDB · Redis · React</h3>
-<h4 align="center">Building production-grade GenAI applications with LangChain & structured LLM outputs</h4>
+<h1 align="center">Hi 👋, I'm Kaif Ali</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kaif-ali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kaifali.6263@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+917982085807"><img src="https://img.shields.io/badge/Open_to_Work-success?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;GenAI+Application+Developer;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis;Building+Production-Grade+Applications;Always+Learning+Something+New+🚀" />
+</p>
+
+<h3 align="center">
+Backend Engineer • GenAI Builder • Problem Solver
+</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420"/>
 </p>
 
 ---
 
-### 👤 About Me
-B.Tech Computer Engineering, Jamia Millia Islamia (2022–2026). Backend-focused developer with hands-on production experience shipping authentication systems, real-time data pipelines, and GenAI-integrated applications. Comfortable owning a feature end-to-end: API design, database schema, security, and deployment-ready code.
-
-**Currently:** actively interviewing for SDE / Backend Engineer roles.
-
----
-
-### 📌 Key Projects — what to look at first
-
-**[aceAI](https://github.com/kaif-23) — AI-Powered Mock Interview SaaS**
-`Node.js · Express · MongoDB · React · LangChain · Deepgram · Firebase · Razorpay`
-- Adaptive interview engine: just-in-time question generation using LangChain LCEL chains + `ChatPromptTemplate`
-- Zod-validated structured LLM output for reliable, type-safe AI responses across API routes
-- Real-time speech transcription via Deepgram; 4-dimension automated answer scoring
-- Firebase Admin SDK token verification + atomic MongoDB transactions for credit/subscription billing
-
-**[NeoCart](https://github.com/kaif-23) — Full-Stack E-Commerce Backend**
-`Node.js · Express · MongoDB · Redis · JWT · Razorpay · Cloudinary`
-- JWT authentication with Redis-backed session management, sliding-window token rotation, and blacklisting
-- Role-based access control and API rate limiting
-- Atomic inventory management (`MongoDB $inc`), server-side price recalculation
-- Razorpay webhook integration with HMAC signature verification + idempotency guards
-
-**[CodeMeet](https://github.com/kaif-23) — Real-Time Collaborative Coding Platform**
-`React · Node.js · Express · Socket.IO · WebRTC · CodeMirror`
-- Synchronized multi-user code editing with room-based collaboration via Socket.IO
-- Peer-to-peer video calling (WebRTC) with screen sharing and presence tracking
-- Backend-proxied JDoodle API for multi-language code execution
-
----
-
-### 🧰 Tech Stack
-
-**Languages** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Backend** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
-
-**Databases** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**GenAI / LLM** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square)
-
-**Tools** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-### 💼 Experience
-**Software Developer Intern — SaralPixel AI Labs** (Jul 2025 – Aug 2025)
-- Built a healthcare appointment booking platform (React, Node.js, Express, MongoDB)
-- Implemented JWT + Firebase Authentication with server-side ID token verification
-- Shipped features in a Git-based collaborative workflow across frontend and backend
-
----
-
-### 🏆 Achievements
-- Solved 600+ DSA problems on LeetCode
-- 97th percentile, JEE Main (among 1M+ candidates)
-
----
-
-### 💬 Ask me about
-Backend architecture & API design · JWT/Redis auth systems (session rotation, token blacklisting) · LangChain structured outputs · Real-time systems (WebSockets, WebRTC)
-
----
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaif-23&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaif-23&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+
+<a href="<YOUR_LINKEDIN_URL>">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kaifali.6263@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kaif-23">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=kaif-23&style=for-the-badge&color=blue"/>
+
 </p>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Kaif Ali
+
+Education:
+  B.Tech Computer Engineering
+  Jamia Millia Islamia (2022-2026)
+
+Current Focus:
+  - Backend Engineering
+  - Generative AI Applications
+  - Production-ready APIs
+  - Distributed Systems
+
+Looking For:
+  Backend Engineer
+  Software Engineer
+  Full Stack Engineer
+
+Interests:
+  - System Design
+  - GenAI
+  - Cloud
+  - Open Source
+```
+
+---
+
+# 🔭 Current Status
+
+- 🔭 Currently building **AceAI – AI Powered Mock Interview Platform**
+- 🌱 Learning **Advanced RAG, Agentic AI, System Design & Distributed Systems**
+- 👯 Looking to collaborate on **Backend & GenAI Projects**
+- 🤝 Looking for help with **Large Scale AI Systems**
+- 💬 Ask me about **Node.js, Express.js, MongoDB, Redis, LangChain, REST APIs**
+- ⚡ Fun Fact: **Solved 600+ DSA Problems and love building real-world products.**
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,nodejs,express,react,mongodb,mysql,redis,firebase,git,github,vscode,docker&perline=8"/>
+
+</p>
+
+---
+
+# 🤖 GenAI Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Database-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🤖 AceAI — AI Powered Mock Interview Platform
+
+**Tech Stack**
+
+`Node.js` • `Express` • `MongoDB` • `React` • `LangChain` • `Deepgram` • `Firebase`
+
+### Features
+
+- 🎯 Adaptive AI Interview Engine
+- 🧠 LangChain LCEL Chains
+- 🎤 Real-time Speech Transcription
+- 📊 Automated Answer Evaluation
+- ✅ Structured LLM Outputs using Zod
+- 🔐 Firebase Authentication
+- 💳 Razorpay Subscription System
+
+---
+
+## 🛒 NeoCart — Production Ready MERN E-Commerce
+
+**Tech Stack**
+
+`Node.js` • `Express` • `MongoDB` • `Redis`
+
+### Features
+
+- JWT Authentication
+- Redis Session Management
+- Role Based Access Control
+- API Rate Limiting
+- Razorpay Payments
+- Cloudinary Integration
+- Atomic Inventory Updates
+
+---
+
+## 💻 CodeMeet — Real-Time Collaborative Coding
+
+**Tech Stack**
+
+`React` • `Node.js` • `Socket.IO` • `WebRTC`
+
+### Features
+
+- Live Collaborative Editor
+- Video Calling
+- Screen Sharing
+- Presence Tracking
+- Multi-language Code Execution
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaif-23&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif-23&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif-23&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaif-23&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaif-23&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions to generate this automatically.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kaif-23/kaif-23/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+### Software Developer Intern — SaralPixel AI Labs
+
+📅 **July 2025 – August 2025**
+
+- Built healthcare appointment booking platform
+- Implemented Firebase Authentication
+- Developed secure REST APIs
+- Worked across frontend & backend
+- Collaborated using Git workflows
+
+---
+
+# 🏆 Achievements
+
+🥇 Solved **600+ DSA Problems**
+
+📈 **97 Percentile** in JEE Main among 1M+ candidates
+
+🚀 Built multiple production-ready Backend & GenAI applications
+
+---
+
+# 💬 Ask Me About
+
+- Backend Development
+- REST APIs
+- Authentication Systems
+- JWT & Redis
+- MongoDB
+- LangChain
+- Prompt Engineering
+- RAG
+- Socket.IO
+- WebRTC
+- System Design
+
+---
+
+# ✨ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+Let's build something amazing together 🚀
+
+</h3>
